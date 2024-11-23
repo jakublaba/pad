@@ -4,4 +4,7 @@ matplotlib
 seaborn
 selenium
 requests
+plotly
+pycountry
+pycountry-convert
 mlxtend
