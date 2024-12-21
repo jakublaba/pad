@@ -8,3 +8,5 @@ plotly
 pycountry
 pycountry-convert
 mlxtend
+scipy
+statsmodels
